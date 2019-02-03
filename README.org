@@ -3,3 +3,7 @@ git learn
 
 * Main Point
 ** Hello world
+   #+BEGIN_SRC emacs-lisp :tangle yes
+(message "hello")
+   #+END_SRC
+** add another comment
