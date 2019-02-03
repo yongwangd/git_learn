@@ -14,3 +14,8 @@ git learn
 * inter master
   
 * Add by master[2] for rebaseing
+
+  
+* MASTER_________________
+
+  
