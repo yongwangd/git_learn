@@ -20,4 +20,3 @@ git learn
   
 * DEV____----------
   
-* DEV TEST SSH
