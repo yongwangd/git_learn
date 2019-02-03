@@ -10,3 +10,4 @@ git learn
   
 * Added by Test
    
+* Add by master[2] for rebaseing
